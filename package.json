@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-ebenezer",
+  "name": "@ebenezer-config/eslint-config",
   "version": "1.0.0",
   "description": "ESlint configuration used by Ebenezer",
   "main": "index.js",
