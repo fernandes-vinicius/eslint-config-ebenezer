@@ -3,12 +3,11 @@
   "version": "1.0.0",
   "description": "ESlint configuration used by Ebenezer",
   "main": "index.js",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "url": "fernandes-vinicius/eslint-config-ebenezer"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "changeset": "changeset",
     "version": "changeset version",
     "release": "changeset publish"
