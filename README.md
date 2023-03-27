@@ -13,15 +13,15 @@
 1. Install the dependencies
 
 ```
-npm i -D eslint @ebenezer/eslint-config
+npm i -D eslint @ebenezer-config/eslint-config
 ```
 
 2. Create a `.eslintrc.json` file extending the config:
 
 ```
 {
-  "extends": "@ebenezer/eslint-config/react"
-  // "extends": "@ebenezer/eslint-config/node"
+  "extends": "@ebenezer-config/eslint-config/react"
+  // "extends": "@ebenezer-config/eslint-config/node"
 }
 ```
 
